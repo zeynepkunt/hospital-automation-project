@@ -1,0 +1,171 @@
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\source\repos\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaAnasayfa.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiBilgGncl.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiRandevu.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaAnasayfa.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiBilgGncl.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiRandevu.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.DoktorEkran.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.DrEkranBilgGnclle.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.DoktorEkran.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.DrEkranBilgGnclle.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.HastaAnasayfa.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.HastaSayfasiBilgGncl.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.HastaSayfasiRandevu.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7)\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.DoktorEkran.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.DrEkranBilgGnclle.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.HastaAnasayfa.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiBilgGncl.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiRandevu.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_ - Kopya - Kopya - Kopya - Kopya - Kopya (7) - Kopya\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.DoktorEkran.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.DrEkranBilgGnclle.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.HastaAnasayfa.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.HastaSayfasiBilgGncl.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.HastaSayfasiRandevu.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.DoktorEkran.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.DrEkranBilgGnclle.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.HastaAnasayfa.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiBilgGncl.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiRandevu.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe.config
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\bin\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.DoktorEkran.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.DrEkranBilgGnclle.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Form1.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaAnasayfa.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaKayit.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaListesi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasi.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiBilgGncl.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HastaSayfasiRandevu.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.Properties.Resources.resources
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.exe
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.pdb
+C:\Users\Kullanıcı\OneDrive\Masaüstü\HastaneOtomasyonu_Randevu Sistemi - Kopya - Kopya\obj\Debug\HastaneOtomasyonu_.HtRndvGrntl.resources
